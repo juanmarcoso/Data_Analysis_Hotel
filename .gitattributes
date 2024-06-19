@@ -1,4 +1,1 @@
 *.ipynb linguist-language=Jupyter Notebook
-*.html linguist-language=HTML
-*.json linguist-language=JSON
-*.py linguist-language=Python
