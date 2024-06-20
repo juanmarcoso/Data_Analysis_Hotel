@@ -1,2 +1,3 @@
-*.ipynb linguist-language=Jupyter Notebook
-*.html linguist-vendored
+echo "*.ipynb linguist-language=Jupyter Notebook" >> .gitattributes
+echo "docs/* linguist-documentation" >> .gitattributes
+echo "*.html linguist-vendored" >> .gitattributes
